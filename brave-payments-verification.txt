@@ -1,0 +1,4 @@
+This is a Brave Payments publisher verification file.
+
+Domain: dimension.im
+Token: 0a30f2b90e6cb287f602a79d7b47f1a0fd5e185882694e37b608696ee3fce54d
