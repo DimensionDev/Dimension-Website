@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Dimension--geologo--WhiteOverBlack</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="190 0 354.544827 95 354.544827 285 190 380 25.4551733 285 25.4551733 95"></polygon>
+        <polygon id="path-3" points="190 0 354.544827 95 354.544827 285 190 380 25.4551733 285 25.4551733 95"></polygon>
+    </defs>
+    <g id="Dimension--geologo--WhiteOverBlack" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#000000" x="0" y="0" width="500" height="500"></rect>
+        <g id="dimension-geologo/white" transform="translate(50.000000, 50.000000)">
+            <g id="Group" transform="translate(10.000000, 10.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Polygon" stroke="#FFFFFF" stroke-width="18" stroke-linejoin="round" xlink:href="#path-1"></use>
+                <ellipse id="Oval" stroke="#FFFFFF" stroke-width="18" stroke-linejoin="round" mask="url(#mask-2)" cx="190" cy="380" rx="210" ry="150"></ellipse>
+            </g>
+            <g id="Group" transform="translate(10.000000, 10.000000)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Polygon" stroke="#FFFFFF" stroke-width="18" stroke-linejoin="round" xlink:href="#path-3"></use>
+                <ellipse id="Oval" stroke="#FFFFFF" stroke-width="18" stroke-linejoin="round" mask="url(#mask-4)" cx="0" cy="380" rx="190" ry="285"></ellipse>
+                <ellipse id="Oval" stroke="#FFFFFF" stroke-width="18" stroke-linejoin="round" mask="url(#mask-4)" cx="380" cy="380" rx="190" ry="285"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

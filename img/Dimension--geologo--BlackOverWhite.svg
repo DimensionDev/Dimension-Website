@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
-    <title>Dimension--geologo-- BlackOverWhite@1x</title>
+    <title>Dimension--geologo--BlackOverWhite@1x</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <polygon id="path-1" points="190 0 354.544827 95 354.544827 285 190 380 25.4551733 285 25.4551733 95"></polygon>
         <polygon id="path-3" points="190 0 354.544827 95 354.544827 285 190 380 25.4551733 285 25.4551733 95"></polygon>
     </defs>
-    <g id="Dimension--geologo---BlackOverWhite" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Dimension--geologo--BlackOverWhite" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect fill="#FFFFFF" x="0" y="0" width="500" height="500"></rect>
-        <g id="dimension-geologo-black" transform="translate(50.000000, 50.000000)">
+        <g id="dimension-geologo/black" transform="translate(50.000000, 50.000000)">
             <g id="Group" transform="translate(10.000000, 10.000000)">
                 <mask id="mask-2" fill="white">
                     <use xlink:href="#path-1"></use>
