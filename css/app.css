@@ -144,6 +144,10 @@ footer p a {
     display: inline;
 }
 
+.partners-image {
+    height: 40px;
+}
+
 
 /* Misc */
 .internal-scroll-anchor {
