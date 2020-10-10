@@ -155,7 +155,17 @@ footer p a {
 }
 
 .partners-image {
-    height: 40px;
+    height: 35px;
+}
+.row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.row .flex{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
 }
 
 
